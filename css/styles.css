@@ -95,7 +95,7 @@ section{
  #about .section-details{
  	display: flex;
  	flex-direction: row;
- 	font-size: 18px;
+ 	font-size: 20px;
  }
  #about .section-details .about-content{
  	color: #C51F8C;
